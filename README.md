@@ -16,7 +16,7 @@ Career Token is used within a decentralized ecosystem that includes:
 - **Symbol**: CAREER  
 - **Decimals**: 18  
 - **Max Supply**: 5,000,000 CAREER  
-- **Emission Model**: Hyperbolic annual mint cap decreasing over time  
+- **Emission Model**: Exponential annual mint cap decay (1.5% per year)  
 - **Contract Address**: [`0x42a7CEd8c483b0FeA6BB727Cdc0014E753f91571`](https://etherscan.io/token/0x42a7CEd8c483b0FeA6BB727Cdc0014E753f91571)
 
 ## 🔐 Smart Contract
